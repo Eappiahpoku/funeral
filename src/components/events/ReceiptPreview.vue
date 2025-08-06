@@ -50,7 +50,7 @@
           <div class="flex-1">
             <p class="text-sm font-medium text-gray-600 mb-1">In loving memory of</p>
             <h4 class="text-lg md:text-xl font-bold text-gray-800 leading-tight">
-              {{ donationData.deceasedName || 'Deceased Name Will Appear Here' }}
+              {{ donationData.deceasedName || 'Name of Late Individual Will Appear Here' }}
             </h4>
           </div>
         </div>
